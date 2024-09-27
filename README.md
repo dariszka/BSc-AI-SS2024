@@ -16,3 +16,16 @@ This course built on foundational AI techniques, introducing advanced concepts a
 This collection showcases proficiency in modern AI frameworks and deep learning methods, with an emphasis on both theoretical understanding and practical skills in neural network training and optimization.
 
 ---
+
+Here’s a general README entry for your **Algorithms and Data Structures** course, emphasizing the key concepts and practical applications:
+
+---
+
+### **Algorithms and Data Structures 1**
+Second semester course.
+
+This course focused on the implementation and in-depth understanding of fundamental algorithms and data structures. Key data structures explored included binary search trees (BSTs), heaps, sorted doubly linked lists, and custom implementations of sorting algorithms such as Radix Sort. The course also covered key algorithmic concepts such as recursion, backtracking, and hash-based pattern matching. Assignments involved practical implementations of these data structures and algorithms, reinforcing theoretical knowledge through real-world applications. The course emphasized algorithm efficiency, ensuring that each implementation demonstrated an understanding of time and space complexity.
+
+This collection of assignments highlights proficiency in designing and optimizing data structures, alongside mastering algorithmic problem-solving techniques.
+
+---
