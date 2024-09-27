@@ -31,6 +31,6 @@ Second semester course.
 
 The course covered all stages of developing a machine learning pipeline, from image preprocessing and dataset creation to training and evaluating a CNN using PyTorch. Key topics included data preprocessing, image augmentation, dataset management, neural network architecture design, training loops, and model evaluation techniques. The final model was evaluated using accuracy metrics to assess its performance on unseen test data.
 
-This course showcases practical skills in machine learning, data processing, and building a complete project from the ground up, demonstrating a strong foundation in modern neural network techniques and end-to-end model development.
+This collection showcases practical skills in machine learning, data processing, and building a complete project from the ground up, demonstrating a strong foundation in modern neural network techniques and end-to-end model development.
 
 ---
