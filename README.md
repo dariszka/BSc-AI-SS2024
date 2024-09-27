@@ -17,10 +17,6 @@ This collection showcases proficiency in modern AI frameworks and deep learning 
 
 ---
 
-Here’s a general README entry for your **Algorithms and Data Structures** course, emphasizing the key concepts and practical applications:
-
----
-
 ### **Algorithms and Data Structures 1**
 Second semester course.
 
